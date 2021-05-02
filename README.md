@@ -24,5 +24,17 @@
         ¿Cuándo conviene REST:
             * Interacciones simples
             * Recursos limitados.
+# Class#5
+    Cómo realizar una petición REST e interpretar sus resultados
+        sudo apt-get install jq
+        * curl https://xkcd.com/info.0.json | jq
+        Verbos HTTP:
+            * GET
+            * POST
+            * PUT
+            * DELETE
 # Linkis
-    https://neo.lcc.uma.es/evirtual/cdd/tutorial/aplicacion/http.html
+    xkcd:
+        https://xkcd.com/info.0.json
+    protocolo HTTP:
+        https://neo.lcc.uma.es/evirtual/cdd/tutorial/aplicacion/http.html
