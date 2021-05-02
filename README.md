@@ -8,5 +8,21 @@
 # Class#3
     Qué es y cómo funciona el protocolo HTTP
         * HTTP son las siglas de Hypertext Transfer Protocol.
+# Class#4    
+    ¿Qué significa REST? y ¿qué es una API RESTful?
+        * REST es un acrónimo de Representational State Transfer o transferencia de estado representacional, le agrega una capa muy delgada de complejidad y abstracción a HTTP. Mientras que HTTP es transferencia de archivos, REST se basa en la transferencia de recursos.
+        Conceptos REST:      
+            * Recurso
+            * URI
+            * Acción
+        Una Petición REST se compone de:
+            * URL
+            * Verbo HTPP
+        Ejemplos:
+            GET/books/1
+            DELETE/books/1
+        ¿Cuándo conviene REST:
+            * Interacciones simples
+            * Recursos limitados.
 # Linkis
     https://neo.lcc.uma.es/evirtual/cdd/tutorial/aplicacion/http.html
